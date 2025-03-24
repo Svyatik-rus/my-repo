@@ -1,0 +1,4 @@
+Time poln: 0.37 c
+Time 1 izm: 0.007900 c
+Rate: 126.58 Hertz
+Step: 0.013 V
